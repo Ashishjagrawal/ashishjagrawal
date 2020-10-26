@@ -12,6 +12,6 @@
 I am a Software Developer. I like coding, problem solving and building projects.
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjagrawal&layout=compact&hide=html" alt="ridhikgovind" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjagrawal&layout=compact&hide=html" alt="ashishjagrawal" /></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ashishjagrawal)
