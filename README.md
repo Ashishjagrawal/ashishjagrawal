@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Jagrawal</h1>
+<h1>Hi 👋, I'm Ashish Jagrawal</h1>
 
 ![](https://komarev.com/ghpvc/?username=ashishjagrawal&color=blueviolet)
 <a href="https://www.instagram.com/theashishjagrawal/" rel="nofollow">
